@@ -21,7 +21,8 @@ const messages = [
   {
     name: 'Shahriar Manzoor',
     role: 'Chairman & Associate Professor,\n CSE Department',
-    image: 'https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/465576093_8836510223055231_6051016432616182316_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0b6b33&_nc_ohc=oNZUxNcI604Q7kNvgFxxGx3&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=AykKq_VHp2pk6gaN7qc8NQ7&oh=00_AYAb9fbdICFJ7eQTlQzFIE2DE9Epnv1ZVmU__0O4oDLq8A&oe=67609B62',
+    image:
+      'https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/465576093_8836510223055231_6051016432616182316_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0b6b33&_nc_ohc=oNZUxNcI604Q7kNvgFxxGx3&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=AykKq_VHp2pk6gaN7qc8NQ7&oh=00_AYAb9fbdICFJ7eQTlQzFIE2DE9Epnv1ZVmU__0O4oDLq8A&oe=67609B62',
     message: `The Computer Club has been instrumental in bridging the gap between academic learning and practical implementation. Through various workshops, competitions, and projects, SEUCC creates opportunities for students to excel in their technical pursuits. I commend their dedication to fostering a culture of innovation and continuous learning.`,
     signature: 'path/to/signature.png',
   },
