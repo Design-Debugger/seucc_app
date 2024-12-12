@@ -163,7 +163,7 @@ const toggleExpand = (title: string) => {
           <img src="@/assets/logo/logo.png" alt="SEUCC" class="w-[50px] h-[50px] object-contain" />
           <div class="flex flex-col">
             <span class="text-white">SEUCC</span>
-            <span class="text-xs font-normal text-gray-400">Computer Club (since-2014)</span>
+            <!-- <span class="text-xs font-normal text-gray-400">Computer Club (since-2014)</span> -->
           </div>
         </router-link>
 

@@ -6,6 +6,7 @@ import TeamSection from '@/components/TeamSection.vue'
 import CounterSection from '@/components/CounterSection.vue'
 import AchievementSection from '@/components/AchievementSection.vue'
 import LeadershipMessageSection from '@/components/LeadershipMessageSection.vue'
+import GallerySection from '@/components/GallerySection.vue'
 </script>
 
 <template>
@@ -17,5 +18,6 @@ import LeadershipMessageSection from '@/components/LeadershipMessageSection.vue'
     <LeadershipMessageSection />
     <AchievementSection />
     <TeamSection />
+    <GallerySection />
   </main>
 </template>
